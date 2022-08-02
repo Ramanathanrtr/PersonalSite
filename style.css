@@ -1,3 +1,14 @@
-.wow {
-  width: 100px;
+body {
+    background-color: #EAF6F6;
+  }
+
+  hr {
+    border-color: grey;
+    border-top-style: dotted none none;
+    border-width:5px;
+    width:5%;    
+  }
+
+h3 {
+  color: teal;
 }
